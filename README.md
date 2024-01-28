@@ -1,3 +1,6 @@
+![image](https://github.com/ingindIsrael/deftlyDash/assets/19786923/0519824b-d6ad-4bb9-9f46-327187d5312a)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
